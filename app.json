@@ -1,0 +1,6 @@
+{
+  "name": "Linear Regression",
+  "description": "App Linear regression parameters",
+  "image": "heroku/java",
+  "addons": [ "heroku-postgresql" ]
+}
